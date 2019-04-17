@@ -1,4 +1,4 @@
-BLACKBELT Cura
+Cura For Tilted Conveyors
 ====
 This is a version of [Ultimaker Cura](https://github.com/ultimaker/cura) customised to support the any conveyor printer with a slanted gantry.
 
